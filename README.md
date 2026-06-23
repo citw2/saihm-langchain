@@ -2,7 +2,7 @@
 
 **SAIHM memory for Python — LangChain & LlamaIndex adapters. One store you own. Erasure you can prove.**
 
-> ⭐ **Star this repo and share it** — help every agent get portable, provable memory. [Share on X](https://x.com/intent/tweet?text=Python%20LangChain%20%26%20LlamaIndex%20with%20a%20memory%20you%20own%20-%20portable%2C%20encrypted%2C%20provably%20erasable%20-%20via%20SAIHM.&url=https%3A%2F%2Fgithub.com%2Fcitw2%2Fsaihm-langchain).
+> ⭐ **[Star SAIHM on GitHub](https://github.com/SAIHM-Admin/saihm-mcp)** and share it — help every agent get portable, provable memory. [Share on X](https://x.com/intent/tweet?text=Python%20LangChain%20%26%20LlamaIndex%20with%20a%20memory%20you%20own%20-%20portable%2C%20encrypted%2C%20provably%20erasable%20-%20via%20SAIHM.&url=https%3A%2F%2Fgithub.com%2Fcitw2%2Fsaihm-langchain).
 
 A runnable demo of [SAIHM](https://saihm.coti.global) for Python. It gives **LangChain** and **LlamaIndex** a single, client-side-encrypted memory that you own: portable across models *and* frameworks, non-custodial, and **provably erasable** (GDPR Art. 17). The same store opens from the core client, from LangChain, and from LlamaIndex — and one `forget` removes a memory from all of them at once.
 
