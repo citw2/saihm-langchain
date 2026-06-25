@@ -95,6 +95,7 @@ Your master secret never leaves your machine; the endpoint only ever receives ci
 
 ## Built on / see also
 
+- **Framework-native adapters:** [saihm-crewai](https://github.com/citw2/saihm-crewai) (CrewAI) · [saihm-autogen](https://github.com/citw2/saihm-autogen) (AutoGen) · [saihm-langgraph](https://github.com/citw2/saihm-langgraph) (LangGraph) · [saihm-rag](https://github.com/citw2/saihm-rag) (LlamaIndex RAG).
 - **[demo-cross-model-memory](https://github.com/citw2/demo-cross-model-memory)** — one memory across Claude, DeepSeek, Qwen, Kimi, GLM, and GPT.
 - **[demo-claude-code](https://github.com/citw2/demo-claude-code)** — the same sidecar as an MCP server for Claude Code, Cursor, and any MCP host.
 - **[All demos + landing page](https://citw2.github.io/saihm-demos/)**.

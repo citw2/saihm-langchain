@@ -1,5 +1,5 @@
-# Core client needs only `mcp` (drives the Node sidecar over MCP stdio).
-mcp>=1.0
+# Core client needs only `mcp` (drives the Node sidecar over MCP stdio); >=1.5 for StdioServerParameters cwd=.
+mcp>=1.5
 # Framework adapters (install only what you use):
 langchain-core>=0.3      # for saihm_memory.SaihmChatMessageHistory
 llama-index-core>=0.12   # for saihm_memory.SaihmMemory
